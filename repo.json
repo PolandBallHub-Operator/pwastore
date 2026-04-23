@@ -1,4 +1,3 @@
 [
-  { "id": "app-001", "name": "ToolA", "icon": "url", "category": "utility" },
-  { "id": "app-002", "name": "GameB", "icon": "url", "category": "game" }
+  { "json": "raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/manifest.json", "name": "EnglishAI - PBEnglish", "dev": "devtangle", "icon": "raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/images/icon-192.png", "category": "Education" },
 ]
