@@ -1,0 +1,4 @@
+[
+  { "id": "app-001", "name": "ToolA", "icon": "url", "category": "utility" },
+  { "id": "app-002", "name": "GameB", "icon": "url", "category": "game" }
+]
