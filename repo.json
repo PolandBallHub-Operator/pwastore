@@ -1,3 +1,3 @@
 [
-  { "json": "raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/manifest.json", "name": "EnglishAI - PBEnglish", "dev": "devtangle", "icon": "raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/images/icon-192.png", "category": "Education" },
+  { "json": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/manifest.json", "name": "EnglishAI-PBEnglish", "dev": "devtangle", "icon": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/images/icon-192.png", "category": "Education" },
 ]
