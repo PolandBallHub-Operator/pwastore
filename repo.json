@@ -1,4 +1,5 @@
 [
   { "json": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/pwa-store/manifest.json", "name": "EnglishAI-PBEnglish", "dev": "devtangle", "icon": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbenglish/refs/heads/main/images/icon-192.png", "category": "Education" },
   { "json": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/manifest.json", "name": "AI歴史-PB", "dev": "devtangle", "icon": "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/images/icon-192.png", "category": "Education" },
+  { "json": "https://raw.githubusercontent.com/PolandBallHub-Operator/polanai/refs/heads/main/pwa-store/manifest.json", "name": "PolanAI", "dev": "devtangle", "icon": "https://raw.githubusercontent.com/PolandBallHub-Operator/polanai/refs/heads/main/images/icon-192.png", "category": "Education" },
 ]
