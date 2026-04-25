@@ -11,4 +11,5 @@
   {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Games/bloxdio/manifest.json","name":"bloxd.io","dev":"Bloxd LTD","icon":"https://www.google.com/s2/favicons?domain=bloxd.io&sz=128","category":"Games"},
   {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Tools/gmaps/manifest.json","name":"Googleマップ","dev":"Google LLC","icon":"https://play-lh.googleusercontent.com/BCmZ2LyUTKKdLhbQp1n49nKhPtDpNjLl_qT6Uctdtnux9s1sds5c_sWeEcGirhFV5dc=w400","category":"Tools"},
   {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/social/inst/manifest.json","name":"Instagram","dev":"Meta Platforms, Inc.","icon":"https://www.google.com/s2/favicons?domain=www.instagram.com&sz=128","category":"Social"},
+  {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/social/fb/manifest.json","name":"Facebook","dev":"Meta Platforms, Inc.","icon":"https://www.google.com/s2/favicons?domain=m.facebook.com&sz=128","category":"Social"},
 ]
