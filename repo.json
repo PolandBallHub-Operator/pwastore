@@ -13,4 +13,5 @@
   {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/social/inst/manifest.json","name":"Instagram","dev":"Meta Platforms, Inc.","icon":"https://www.google.com/s2/favicons?domain=www.instagram.com&sz=128","category":"Social"},
   {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/social/fb/manifest.json","name":"Facebook","dev":"Meta Platforms, Inc.","icon":"https://www.google.com/s2/favicons?domain=m.facebook.com&sz=128","category":"Social"},
   {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/social/x/manifest.json","name":"X","dev":"X Corp.","icon":"https://play-lh.googleusercontent.com/XyI6Hyz9AFg7E_joVzX2zh6CpWm9B2DG2JuEz5meCFVm4-wTKTnHgqbmg62iFKe4Gzca=w480","category":"Social"},
+  {"json":"https://raw.githubusercontent.com/PolandBallHub-Operator/UnchartedAppRepo/refs/heads/main/apps/Tools/grok/manifest.json","name":"Grok","dev":"X Corp.","icon":"https://www.google.com/s2/favicons?domain=grok.com&sz=128","category":"Tools"},
 ]
